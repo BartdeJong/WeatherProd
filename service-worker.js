@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/WeatherProd/precache-manifest.bfbdc471202d0cf0291c5a8c2985a3fe.js"
+  "/WeatherProd/precache-manifest.74de7fc7ed11997b80026b8f44aa4357.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mqttdisplayer"});
