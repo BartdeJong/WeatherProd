@@ -3496,11 +3496,11 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/humidity.png"
   },
   {
-    "revision": "735ab4f94fbcd57074377afca324c813",
-    "url": "/WeatherProd/robots.txt"
-  },
-  {
     "revision": "9859f0c9c394f6c37540d40efd4cdfbd",
     "url": "/WeatherProd/img/temperature.png"
+  },
+  {
+    "revision": "735ab4f94fbcd57074377afca324c813",
+    "url": "/WeatherProd/robots.txt"
   }
 ];
