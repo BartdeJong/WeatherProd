@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2f7ad3ed9e342cb63c18",
-    "url": "/WeatherProd/css/app.39c6c054.css"
+    "revision": "60acc11739b7728e5d72",
+    "url": "/WeatherProd/css/app.3c66dd28.css"
   },
   {
-    "revision": "2f7ad3ed9e342cb63c18",
-    "url": "/WeatherProd/js/app.8b4be5df.js"
+    "revision": "60acc11739b7728e5d72",
+    "url": "/WeatherProd/js/app.76d6c03a.js"
   },
   {
     "revision": "9c2238aefe037a8ae356",
@@ -696,12 +696,12 @@ self.__precacheManifest = [
     "url": "/WeatherProd/js/chunk-f13dbac0.2171294d.js"
   },
   {
-    "revision": "fd8f4172d4fe9408dc66",
+    "revision": "2e477e7c7e0fdde24291",
     "url": "/WeatherProd/css/chunk-vendors.283feae7.css"
   },
   {
-    "revision": "fd8f4172d4fe9408dc66",
-    "url": "/WeatherProd/js/chunk-vendors.120903ac.js"
+    "revision": "2e477e7c7e0fdde24291",
+    "url": "/WeatherProd/js/chunk-vendors.8a864b51.js"
   },
   {
     "revision": "b360dc24090b494e13fa1109d1f54cba",
@@ -3488,7 +3488,7 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/ios-cafe.89e90031.svg"
   },
   {
-    "revision": "a721d49f61313ba680ca32bad5506101",
+    "revision": "a3539367aa9584207d3194a2c8a56f63",
     "url": "/WeatherProd/index.html"
   },
   {
