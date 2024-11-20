@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2617c504134df1bf6902",
-    "url": "/WeatherProd/css/app.89c23456.css"
+    "revision": "e65500c823c9ef4e25e6",
+    "url": "/WeatherProd/css/app.57b11d36.css"
   },
   {
-    "revision": "2617c504134df1bf6902",
-    "url": "/WeatherProd/js/app.471aba7a.js"
+    "revision": "e65500c823c9ef4e25e6",
+    "url": "/WeatherProd/js/app.6e6e925e.js"
   },
   {
     "revision": "85b5b1ea165c5efaa821",
@@ -3188,16 +3188,12 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/ios-cafe.89e90031.svg"
   },
   {
-    "revision": "ccce028de976f7716555b63282f43d1d",
+    "revision": "227ae470cd5b20cd38e2b7e91f7bc101",
     "url": "/WeatherProd/index.html"
   },
   {
     "revision": "ddd46a98ba78493004fbcd0e99979685",
     "url": "/WeatherProd/img/humidity.png"
-  },
-  {
-    "revision": "9859f0c9c394f6c37540d40efd4cdfbd",
-    "url": "/WeatherProd/img/temperature.png"
   },
   {
     "revision": "c3016523b516348a04dbf82bf373d4b0",
@@ -3206,5 +3202,9 @@ self.__precacheManifest = [
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/WeatherProd/robots.txt"
+  },
+  {
+    "revision": "9859f0c9c394f6c37540d40efd4cdfbd",
+    "url": "/WeatherProd/img/temperature.png"
   }
 ];
