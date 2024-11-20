@@ -3188,7 +3188,7 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/ios-cafe.89e90031.svg"
   },
   {
-    "revision": "227ae470cd5b20cd38e2b7e91f7bc101",
+    "revision": "69f6006063db8cb34ce1fd07f820e7f7",
     "url": "/WeatherProd/index.html"
   },
   {
@@ -3196,15 +3196,11 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/humidity.png"
   },
   {
-    "revision": "c3016523b516348a04dbf82bf373d4b0",
-    "url": "/WeatherProd/manifest.appcache.php"
+    "revision": "9859f0c9c394f6c37540d40efd4cdfbd",
+    "url": "/WeatherProd/img/temperature.png"
   },
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/WeatherProd/robots.txt"
-  },
-  {
-    "revision": "9859f0c9c394f6c37540d40efd4cdfbd",
-    "url": "/WeatherProd/img/temperature.png"
   }
 ];
