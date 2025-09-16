@@ -3200,6 +3200,10 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/temperature.png"
   },
   {
+    "revision": "f55ed03467bfce268397de406e91f802",
+    "url": "/WeatherProd/faviconOld.ico"
+  },
+  {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/WeatherProd/robots.txt"
   }
