@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "804cbf658162e2cf5ff7",
+    "revision": "d7d40d963f8960c857ea",
     "url": "/WeatherProd/css/app.655244db.css"
   },
   {
-    "revision": "804cbf658162e2cf5ff7",
-    "url": "/WeatherProd/js/app.befb89a3.js"
+    "revision": "d7d40d963f8960c857ea",
+    "url": "/WeatherProd/js/app.b0d68449.js"
   },
   {
     "revision": "85b5b1ea165c5efaa821",
@@ -3188,7 +3188,7 @@ self.__precacheManifest = [
     "url": "/WeatherProd/img/ios-cafe.89e90031.svg"
   },
   {
-    "revision": "e0127c1042bbfadd211fedd1870e47dd",
+    "revision": "932a14a3dd383545984c21a687139691",
     "url": "/WeatherProd/index.html"
   },
   {
